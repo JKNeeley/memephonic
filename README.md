@@ -36,5 +36,7 @@ Bonus
 
 ## Sources
 [1] https://www.digitalocean.com/community/tutorials/how-to-make-a-web-application-using-flask-in-python-3 <br>
-[2] https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore <br>
-[3] https://www.pythoninformer.com/python-libraries/flask/adding-a-page/ <br>
+[2] https://raw.githubusercontent.com/github/gitignore/master/Python.gitignore  <br>
+[3] https://openai.com/product#made-for-developers  <br>
+[4] https://cloud.google.com/vertex-ai/docs/generative-ai/image/image-captioning#-python  <br>
+[5] https://www.pythoninformer.com/python-libraries/flask/adding-a-page/ <br>

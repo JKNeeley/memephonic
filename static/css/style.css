@@ -1,0 +1,25 @@
+h1 {
+    font: bolder;
+    border: 2px #d2d2d2 solid;
+    color: rgb(159, 26, 26);
+    text-align: center;
+    padding: 20px;
+}
+h2 {
+    font: bold;
+    color: rgb(159, 26, 26);
+    text-align: center;
+    padding: 10px;
+}
+p {
+    color: rgb(56, 0, 0);
+    text-align: center;
+    padding: 5px;
+}
+
+.input {
+    color: rgb(159, 26, 26);
+    text-emphasis-color: 2px #d2d2d2 solid;
+    text-align: center;
+    padding: 10px;
+}
